@@ -2,7 +2,7 @@
 
 ### Dashboard Link : https://public.tableau.com/app/profile/smita.mane7092/viz/FinancialDataAnalysis_17315830013310/Dashboard1
 
-### Video Link : https://www.youtube.com/watch?v=YFlPLUM9LDI&t=1560s
+### Video Link : https://www.youtube.com/watch?v=LG37YTlauJA
 
 ## Problem Statement
 
