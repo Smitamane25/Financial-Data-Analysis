@@ -1,6 +1,6 @@
 # Financial-Data-Analysis
 
-### Video Link : 
+### Video Link : https://www.youtube.com/watch?v=BF5iCEBKw48&t=1388s
 
 ## Problem Statement
 
